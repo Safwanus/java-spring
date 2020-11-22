@@ -1,0 +1,24 @@
+2020-01-05 18:40:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:40:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:41:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:41:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:44:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:44:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:45:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, UID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, UID, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
+2020-01-05 18:45:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT MIN(ID) AS ID, UID, MIN(EID) AS EID, TAGNAME FROM TAG GROUP BY TAGNAME WHERE[*] UID = ? "; SQL statement:
+SELECT MIN(id) AS id, UID, MIN(eid) as eid, tagname FROM TAG GROUP BY tagname WHERE UID = ? [42000-196]
